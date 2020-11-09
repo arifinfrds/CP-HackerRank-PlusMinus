@@ -8,6 +8,9 @@ public class Main {
         plusMinus(numbers);
     }
 
+    // Time Complexity  : O(n)
+    // Space Complexity : O(n)
+    
     // Complete the plusMinus function below.
     static void plusMinus(int[] numbers) {
         int positiveCount = 0;
